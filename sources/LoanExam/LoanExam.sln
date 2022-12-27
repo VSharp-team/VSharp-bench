@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoanExam", "LoanExam.csproj", "{A73209D7-3A38-4F90-9D26-E397E885208C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A73209D7-3A38-4F90-9D26-E397E885208C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A73209D7-3A38-4F90-9D26-E397E885208C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A73209D7-3A38-4F90-9D26-E397E885208C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A73209D7-3A38-4F90-9D26-E397E885208C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
