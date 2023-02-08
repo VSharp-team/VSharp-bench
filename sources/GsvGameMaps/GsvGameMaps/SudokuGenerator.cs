@@ -1,5 +1,7 @@
 /* C# program for Sudoku generator */
 
+using System;
+
 namespace GsvGameMaps;
 
 public class Sudoku

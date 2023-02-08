@@ -1,6 +1,10 @@
 // C# program for space
 // optimized solution of
 // Word Wrap problem.
+
+using System;
+using System.Collections.Generic;
+
 namespace GsvGameMaps;
 
 class WordWrap

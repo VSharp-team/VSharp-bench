@@ -1,6 +1,9 @@
 // C# program to get number of ways
 // to increase LCS by 1
 
+using System;
+using System.Collections.Generic;
+
 namespace GsvGameMaps;
 
 class LCS {

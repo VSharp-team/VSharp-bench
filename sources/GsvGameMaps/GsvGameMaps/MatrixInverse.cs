@@ -1,5 +1,7 @@
 // C# program to find adjoint and inverse of a matrix
 
+using System;
+
 namespace GsvGameMaps;
 
 class MatrixInverse
