@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GsvGameMaps", "GsvGameMaps\GsvGameMaps.csproj", "{D994D794-0DA0-44C1-A833-9552BE0CFBCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D994D794-0DA0-44C1-A833-9552BE0CFBCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D994D794-0DA0-44C1-A833-9552BE0CFBCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D994D794-0DA0-44C1-A833-9552BE0CFBCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D994D794-0DA0-44C1-A833-9552BE0CFBCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
